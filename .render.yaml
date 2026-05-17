@@ -1,0 +1,5 @@
+services:
+  - type: web
+    name: moodle
+    env: docker
+    plan: free
